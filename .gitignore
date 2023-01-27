@@ -1,0 +1,11 @@
+
+Players/.classpath
+Players/.project
+Players/.settings/org.eclipse.jdt.core.prefs
+Players/bin/ua/robotdream/homework08/AmericanPlayer.class
+Players/bin/ua/robotdream/homework08/AmericanPlayerAdapter.class
+Players/bin/ua/robotdream/homework08/AmericanPlayerAdapterTest.class
+Players/bin/ua/robotdream/homework08/EuropeanPlayerAdapter.class
+Players/bin/ua/robotdream/homework08/EuropeanPlayer.class
+Players/bin/ua/robotdream/homework08/EuropeanPlayerAdapterTest.class
+Players/bin/ua/robotdream/homework08/homework08.class
